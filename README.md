@@ -75,7 +75,7 @@ Of 4,223 repeat buyers, only 28.1% hold a subscription. This represents a large 
 ---
 
 ## Repository Structure
-
+```
 retail-customer-analysis/
 ├── README.md
 ├── sql/
@@ -92,7 +92,7 @@ retail-customer-analysis/
     ├── chart_2_customer_segments.png
     ├── chart_3_discount_subscription.png
     └── chart_4_repeat_buyer_behavior.png
-
+```
 ---
 
 ## Key Skills Demonstrated
