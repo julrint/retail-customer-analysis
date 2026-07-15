@@ -1,0 +1,4 @@
+customer_segment,total_customers,avg_spend,avg_previous_purchases
+High Value,45,"1,234.60",36
+Mid Value,3441,98.93,29.5
+Low Value,745,66.66,4.8

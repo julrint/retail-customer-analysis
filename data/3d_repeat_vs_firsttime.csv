@@ -1,0 +1,4 @@
+buyer_type,total_customers,avg_spend,avg_review_rating,subscribers,subscriber_pct,used_discount,discount_pct,,,Metric,Percentage
+Repeat buyer,4223,104.07,3.73,1187,28.1,1831,43.4,,,Subscribed,28.1
+First-time buyer,8,767.6,2.5,2,25,5,62.5,,,Used Discount,43.4
+,,,,,,,,,,Not Subscribed,71.9
